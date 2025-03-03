@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/boilerplate-clean-arch-node/main/assets/banner.png" alt="Boilerplate Clean Architecture - Node.js & TypeScript">
+  <img src="https://raw.githubusercontent.com/Emmanuel-Ghomsi/boilerplate-node/main/assets/banner.png" alt="Boilerplate Clean Architecture - Node.js & TypeScript">
 </p>
 
 # 🚀 Boilerplate Clean Architecture avec Node.js & TypeScript
 
-![GitHub license](https://img.shields.io/github/license/username/boilerplate-clean-arch-node)
-![GitHub stars](https://img.shields.io/github/stars/username/boilerplate-clean-arch-node?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/boilerplate-clean-arch-node?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/boilerplate-clean-arch-node)
-![Build Status](https://github.com/username/boilerplate-clean-arch-node/workflows/CI/CD/badge.svg)
+![GitHub license](https://img.shields.io/github/license/Emmanuel-Ghomsi/boilerplate-node)
+![GitHub stars](https://img.shields.io/github/stars/Emmanuel-Ghomsi/boilerplate-node?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Emmanuel-Ghomsi/boilerplate-node?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Emmanuel-Ghomsi/boilerplate-node)
+![Build Status](https://github.com/Emmanuel-Ghomsi/boilerplate-node/workflows/CI/CD/badge.svg)
 ![Docker Support](https://img.shields.io/badge/docker-supported-blue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Fastify](https://img.shields.io/badge/Fastify-%F0%9F%9A%80-green)
@@ -70,8 +70,8 @@ Un **boilerplate avancé** basé sur **Node.js**, **TypeScript** et la **Clean A
 
 ### **2️⃣ Cloner le projet**
 ```bash
-git clone https://github.com/username/boilerplate-clean-arch-node.git
-cd boilerplate-clean-arch-node
+git clone https://github.com/Emmanuel-Ghomsi/boilerplate-node.git
+cd boilerplate-node
 ```
 
 ### **3️⃣ Installer les dépendances**
