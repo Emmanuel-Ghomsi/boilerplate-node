@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emmanuel-Ghomsi/boilerplate-node/main/assets/banner.png" alt="Boilerplate Clean Architecture - Node.js & TypeScript">
-</p>
-
 # 🚀 Boilerplate Clean Architecture avec Node.js & TypeScript
 
 ![GitHub license](https://img.shields.io/github/license/Emmanuel-Ghomsi/boilerplate-node)
 ![GitHub stars](https://img.shields.io/github/stars/Emmanuel-Ghomsi/boilerplate-node?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Emmanuel-Ghomsi/boilerplate-node?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Emmanuel-Ghomsi/boilerplate-node)
-![Build Status](https://github.com/Emmanuel-Ghomsi/boilerplate-node/workflows/CI/CD/badge.svg)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Emmanuel-Ghomsi/boilerplate-node/ci-cd.yml)
 ![Docker Support](https://img.shields.io/badge/docker-supported-blue)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Fastify](https://img.shields.io/badge/Fastify-%F0%9F%9A%80-green)
