@@ -37,23 +37,17 @@ Un **boilerplate avancé** basé sur **Node.js**, **TypeScript** et la **Clean A
 ---
 
 ## 📂 **Structure du projet**
+```yaml
 📦 src
-
-  ┣ 📂 core # Configurations globales & exceptions
-
-  ┣ 📂 domain # Entités métier & interfaces
-
-  ┣ 📂 application # Services métier
-
-  ┣ 📂 infrastructure # Repositories, cache & persistance
-
-  ┣ 📂 interface/http # Routes, middlewares & contrôleurs
-
-  ┣ 📂 tests # Tests unitaires & d'intégration
-
-  ┣ 📂 config # Configuration (logger, cache, DB)
-
-  ┣ 📜 server.ts # Point d'entrée de l'API
+┣ 📂 core # Configurations globales & exceptions
+┣ 📂 domain # Entités métier & interfaces
+┣ 📂 application # Services métier
+┣ 📂 infrastructure # Repositories, cache & persistance
+┣ 📂 interface/http # Routes, middlewares & contrôleurs
+┣ 📂 tests # Tests unitaires & d'intégration
+┣ 📂 config # Configuration (logger, cache, DB)
+┣ 📜 server.ts # Point d'entrée de l'API
+```
 
 ---
 
